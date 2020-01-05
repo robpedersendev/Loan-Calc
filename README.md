@@ -10,6 +10,6 @@ This was an early project to get familiar with DOM manipulation, Bootstrap, Java
 ## Background
 
 ​
-This is a simple site that utilizes bootstrap Bootstrap, Javascript, HTML, and CSS to take in data and display the mathematical results of those values. It was done to familiarize myself with DOM manipulation, simple loading screens, data validation, and form submission using Javascript
+This is a simple site that utilizes Bootstrap, Javascript, HTML, and CSS to take in data and display the mathematical results of those values. It was done to familiarize myself with DOM manipulation, simple loading screens, data validation, and form submission using Javascript
 ​
 ​
